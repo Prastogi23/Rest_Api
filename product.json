@@ -1,0 +1,54 @@
+[
+    {
+        "name": "iphone",
+        "price":154,
+        "feature":true,
+        "company":"apple"
+    },
+
+    
+    {
+        "name": "iphone10",
+        "price":1154,
+        "feature":true,
+        "company":"apple"
+    },
+
+    
+    {
+        "name": "watch",
+        "price":204,
+        "company":"apple"
+    },
+
+    
+    {
+        "name": "watch10",
+        "price":1110,
+        "company":"apple"
+    },
+
+    
+    {
+        "name": "s20",
+        "price":1200,
+        "feature":true,
+        "company":"samsung"
+    },
+
+    
+    {
+        "name": "galaxyA20",
+        "price":899,
+        "feature":true,
+        "company":"samsung"
+    },
+
+    
+    {
+        "name": "dellgaming",
+        "price":30000,
+        "company":"dell"
+    }
+
+]
